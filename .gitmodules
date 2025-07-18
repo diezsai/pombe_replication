@@ -1,0 +1,3 @@
+[submodule "external/fork_arrest_scripts"]
+	path = external/fork_arrest_scripts
+	url = https://github.com/DNAReplicationLab/fork_arrest.git
